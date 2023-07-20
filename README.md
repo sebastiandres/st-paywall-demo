@@ -1,2 +1,4 @@
 # st-paywall-demo
-A demo for st-paywall
+A sandbox for testing ideas for st-paywall
+
+Use python >= 3.10
